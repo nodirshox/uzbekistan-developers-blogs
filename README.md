@@ -2,4 +2,4 @@
 
 ## All Uzbekistan Developers blog list.
 
-* Nodirbek Ergashev [Telegram](https://t.me/nodir_adventure)
+* Nodirbek Ergashev [Telegram](https://t.me/nodir_adventure) | [Blog](https://ergashevn.blogspot.com/)
