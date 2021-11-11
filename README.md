@@ -21,6 +21,7 @@ If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repo
 - Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer)
 - Farhodjon Yashayapti [Telegram](https://t.me/FarLives)
 - Mayoq [Telegram](https://t.me/mayoquz)
+- Akbarjon Dev [Telegram](https://t.me/akbarjondev)
 
 ## Job sources
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
