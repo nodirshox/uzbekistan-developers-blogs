@@ -2,7 +2,7 @@
 
 ## All Uzbekistan Developers blog list.
 
-If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request. If you can't create Pull request, write to me directly to [Telegram](https://t.me/nodirshox_e).
+If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request. If you can't create Pull request, write to me directly in [Telegram](https://t.me/nodirshox_e).
 
 - Nodirbek Ergashev [Telegram](https://t.me/nodir_adventure) [Blog](https://ergashevn.blogspot.com/)
 - Jakhongir Rakhmonov [Telegram](https://t.me/jakhonrakhmon) [Telegram2](https://t.me/JR_TwitGram) [Blog](https://rahmonov.me/)
