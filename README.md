@@ -1,8 +1,10 @@
-# uzbekistan-developers-blogs
+# **🇺🇿 Uzbekistan-Developers-Blogs**
 
-## All Uzbekistan Developers blog list.
+## 📃 All Uzbekistan Developers blog list
 
-If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request. If you can't create Pull request, write to me directly in [Telegram](https://t.me/nodirshox_e).
+If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request. If you can't create Pull request, write to me directly in [Telegram](https://t.me/nodirshox_e).
+
+## **📚 Blogs**
 
 - Nodirbek Ergashev [Telegram](https://t.me/nodir_adventure) [Blog](https://ergashevn.blogspot.com/)
 - Jakhongir Rakhmonov [Telegram](https://t.me/jakhonrakhmon) [Telegram2](https://t.me/JR_TwitGram) [Blog](https://rahmonov.me/)
@@ -22,8 +24,11 @@ If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repo
 - Farhodjon Yashayapti [Telegram](https://t.me/FarLives)
 - Mayoq [Telegram](https://t.me/mayoquz)
 - Akbarjon Dev [Telegram](https://t.me/akbarjondev)
+- Node.js (Saidabdulla Masharipov) [Telegram](https://t.me/npm_run_dev)
+- Farrukh Saliev | Blog [Telegram](https://t.me/farrukhsaliev)
 
-## Job sources
+## **💼 Job sources**
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
 - Rizqim [Telegram](https://t.me/rizqimuz)
 - IT Market [Telegram](https://t.me/itmarket_uz)
+- Teamwork.uz (фриланс площадка) [Telegram](https://t.me/teamwork_uz)
