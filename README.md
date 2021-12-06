@@ -26,3 +26,4 @@ If you have a blog(Telegram, website, Youtube, or any), welcome to Fork the repo
 ## Job sources
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
 - Rizqim [Telegram](https://t.me/rizqimuz)
+- IT Market [Telegram](https://t.me/itmarket_uz)
