@@ -26,6 +26,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Akbarjon Dev [Telegram](https://t.me/akbarjondev)
 - Node.js (Saidabdulla Masharipov) [Telegram](https://t.me/npm_run_dev)
 - Farrukh Saliev | Blog [Telegram](https://t.me/farrukhsaliev)
+- Umar Muhandis [Telegram](https://t.me/umarmuhandis)
+- Sardor Og'a kanali [Telegram](https://t.me/sardoroga_blog)
 
 ## **💼 Job sources**
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
