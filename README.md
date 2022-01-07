@@ -29,6 +29,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Umar Muhandis [Telegram](https://t.me/umarmuhandis)
 - Sardor Og'a kanali [Telegram](https://t.me/sardoroga_blog)
 - Bexrux.ru - IT blog [Telegram](https://t.me/bexruz_ru)
+- Nurmuhammad Mahmudov - [YouTube](https://t.me/NurmuhammadMahmudov)
 
 ## **💼 Job sources**
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
