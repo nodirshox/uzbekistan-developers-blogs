@@ -36,3 +36,14 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Rizqim [Telegram](https://t.me/rizqimuz)
 - IT Market [Telegram](https://t.me/itmarket_uz)
 - Teamwork.uz (фриланс площадка) [Telegram](https://t.me/teamwork_uz)
+
+## **🎙 Communities**
+
+- Golang [Telegram](https://t.me/golangdevs_community)
+- DotNet [Telegram](https://t.me/uz_dotnet)
+- DevOps [Telegram](https://t.me/devopsuzb)
+- NodeJs [Telegram](https://t.me/nodejs_uz)
+- Dart - Flutter [Telegram](https://t.me/nodejs_uz)
+- iOS [Telegram](https://t.me/iOSDevelopersUz)
+- Telegram Bot [Telegram](https://t.me/telegrafJS_uz)
+- PHP [Telegram](https://t.me/php_uz)
