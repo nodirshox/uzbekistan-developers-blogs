@@ -32,6 +32,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Nurmuhammad Mahmudov - [Telegram](https://t.me/NurmuhammadMahmudov)
 
 ## **💼 Job sources**
+
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
 - Rizqim [Telegram](https://t.me/rizqimuz)
 - IT Market [Telegram](https://t.me/itmarket_uz)
@@ -39,11 +40,25 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 
 ## **🎙 Communities**
 
-- Golang [Telegram](https://t.me/golangdevs_community)
 - DotNet [Telegram](https://t.me/uz_dotnet)
+- Golang [Telegram](https://t.me/golangdevs_community)
+- Linux [Telegram](https://t.me/linux_uzbek)
 - DevOps [Telegram](https://t.me/devopsuzb)
+- Python [Telegram](https://t.me/python_uz)
+- Django [Telegram](https://t.me/djangouzb)
+- PyTelegramBotAPI [Telegram](https://t.me/telebot_uz)
+- Flask Uzb [Telegram](https://t.me/flaskuzb)
+- JS [Telegram](https://t.me/js_uz)
 - NodeJs [Telegram](https://t.me/nodejs_uz)
-- Dart - Flutter [Telegram](https://t.me/nodejs_uz)
-- iOS [Telegram](https://t.me/iOSDevelopersUz)
-- Telegram Bot [Telegram](https://t.me/telegrafJS_uz)
+- Angular [Telegram](https://t.me/angular_uz)
+- Vue JS [Telegram](https://t.me/vuejs_uz)
+- React [Telegram](https://t.me/react_uz)
+- TelegrafJS [Telegram](https://t.me/telegrafJS_uz)
 - PHP [Telegram](https://t.me/php_uz)
+- Laravel [Telegram](https://t.me/laravel_uz)
+- Yii [Telegram](https://t.me/yiiframework_uz)
+- Dart - Flutter [Telegram](https://t.me/dartuzb)
+- iOS [Telegram](https://t.me/iOSDevelopersUz)
+- PostgreSQL Uzbekistan [Telegram](https://t.me/pgsql_uzbekistan)
+- UzGeeks [Telegram](https://t.me/UzGeeksGroup)
+- UzDev – Сообщество разработчиков [Telegram](https://t.me/uzdevgroup)
