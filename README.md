@@ -37,10 +37,12 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Rizqim [Telegram](https://t.me/rizqimuz)
 - IT Market [Telegram](https://t.me/itmarket_uz)
 - Teamwork.uz (фриланс площадка) [Telegram](https://t.me/teamwork_uz)
+- UZ Python Jobs [Telegram](https://t.me/uzpythonjobs)
+- UzDev Jobs [Telegram](https://t.me/uzdev_jobs)
+- IT Вакансии | Ташкент [Telegram](https://t.me/ITworksUz)
 
 ## **🎙 Communities**
 
-- DotNet [Telegram](https://t.me/uz_dotnet)
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
 - DevOps [Telegram](https://t.me/devopsuzb)
@@ -59,6 +61,10 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Yii [Telegram](https://t.me/yiiframework_uz)
 - Dart - Flutter [Telegram](https://t.me/dartuzb)
 - iOS [Telegram](https://t.me/iOSDevelopersUz)
+- Swift UZB [Telegram](https://t.me/swift_uzb)
 - PostgreSQL Uzbekistan [Telegram](https://t.me/pgsql_uzbekistan)
+- DotNet [Telegram](https://t.me/uz_dotnet)
+- Csharp Uz [Telegram](https://t.me/Csharp_uz_group)
+- Xamarin Uz [Telegram](https://t.me/Xamarin_Uzbekistan)
 - UzGeeks [Telegram](https://t.me/UzGeeksGroup)
 - UzDev – Сообщество разработчиков [Telegram](https://t.me/uzdevgroup)
