@@ -30,6 +30,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Sardor Og'a kanali [Telegram](https://t.me/sardoroga_blog)
 - Bexrux.ru - IT blog [Telegram](https://t.me/bexruz_ru)
 - Nurmuhammad Mahmudov - [Telegram](https://t.me/NurmuhammadMahmudov)
+- Abduaziz Py🔥 [Telegram](https://t.me/AbduazizPy)
 
 ## **💼 Job sources**
 
