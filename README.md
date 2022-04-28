@@ -31,6 +31,10 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Bexrux.ru - IT blog [Telegram](https://t.me/bexruz_ru)
 - Nurmuhammad Mahmudov - [Telegram](https://t.me/NurmuhammadMahmudov)
 - Abduaziz Py🔥 [Telegram](https://t.me/AbduazizPy)
+- Saud Abdulwahed [Telegram](https://t.me/saudabdulwahed)
+- Dev Farhod [Telegram](https://t.me/devfarhod)
+- PyNotes [Telegram](https://t.me/py_notes_uz)
+- mabrur.dev [Telegram](https://t.me/mabrur_dev)
 
 ## **💼 Job sources**
 
