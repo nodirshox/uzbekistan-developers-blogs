@@ -35,6 +35,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Dev Farhod [Telegram](https://t.me/devfarhod)
 - PyNotes [Telegram](https://t.me/py_notes_uz)
 - mabrur.dev [Telegram](https://t.me/mabrur_dev)
+- Nuruddin Blogs [Telegram](https://t.me/nuruddinblogs)
+- dev_b.log [Telegram](https://t.me/shakhzodme)
 
 ## **💼 Job sources**
 
