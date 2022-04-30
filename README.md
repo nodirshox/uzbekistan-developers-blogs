@@ -46,7 +46,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Teamwork.uz (фриланс площадка) [Telegram](https://t.me/teamwork_uz)
 - UZ Python Jobs [Telegram](https://t.me/uzpythonjobs)
 - UzDev Jobs [Telegram](https://t.me/uzdev_jobs)
-- IT Вакансии | Ташкент [Telegram](https://t.me/ITworksUz)
+- IT Вакансии Ташкент [Telegram](https://t.me/ITworksUz)
 
 ## **🎙 Communities**
 
