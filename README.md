@@ -47,6 +47,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - UZ Python Jobs [Telegram](https://t.me/uzpythonjobs)
 - UzDev Jobs [Telegram](https://t.me/uzdev_jobs)
 - IT Вакансии Ташкент [Telegram](https://t.me/ITworksUz)
+- Uzbekcoders Jobs [Telegram](https://t.me/omuc_jobs)
 
 ## **🎙 Communities**
 
@@ -62,6 +63,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Angular [Telegram](https://t.me/angular_uz)
 - Vue JS [Telegram](https://t.me/vuejs_uz)
 - React [Telegram](https://t.me/react_uz)
+- Spring [Telegram](https://t.me/spring_boot_mvc_uz)
 - TelegrafJS [Telegram](https://t.me/telegrafJS_uz)
 - PHP [Telegram](https://t.me/php_uz)
 - Laravel [Telegram](https://t.me/laravel_uz)
@@ -75,3 +77,5 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Xamarin Uz [Telegram](https://t.me/Xamarin_Uzbekistan)
 - UzGeeks [Telegram](https://t.me/UzGeeksGroup)
 - UzDev – Сообщество разработчиков [Telegram](https://t.me/uzdevgroup)
+- Faang Interview [Telegram](https://t.me/+ndewVNuP8co0ZTdi)
+- Leetcode [Telegram](https://t.me/LeetCode_Uz_Discuss)
