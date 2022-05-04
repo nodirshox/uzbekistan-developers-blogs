@@ -37,6 +37,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - mabrur.dev [Telegram](https://t.me/mabrur_dev)
 - Nuruddin Blogs [Telegram](https://t.me/nuruddinblogs)
 - dev_b.log [Telegram](https://t.me/shakhzodme)
+- azizbekx [Telegram](https://t.me/azizbekx)
 
 ## **💼 Job sources**
 
