@@ -37,6 +37,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Nuruddin Blogs [Telegram](https://t.me/nuruddinblogs)
 - dev_b.log [Telegram](https://t.me/shakhzodme)
 - azizbekx [Telegram](https://t.me/azizbekx)
+- Abdusamad Malikov [Telegram](https://t.me/malikovdev) [Blog](https://www.abdusamad.uz)
 
 ## **💼 Job sources**
 
