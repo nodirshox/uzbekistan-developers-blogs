@@ -38,7 +38,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - dev_b.log [Telegram](https://t.me/shakhzodme)
 - azizbekx [Telegram](https://t.me/azizbekx)
 - Abdusamad Malikov [Telegram](https://t.me/malikovdev) [Blog](https://www.abdusamad.uz)
-
+- Izlan & Rivojlan [Telegram](https://t.me/izlanvarivojlan) [YouTube](https://m.youtube.com/c/izlanrivojlanresearchdevelop)
 ## **💼 Job sources**
 
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
