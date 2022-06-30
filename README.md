@@ -2,7 +2,7 @@
 
 ## 📃 All Uzbekistan Developers blog list
 
-If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request. If you can't create Pull request, write to me directly in [Telegram](https://t.me/nodirshox_e).
+If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request.
 
 ## **📚 Blogs**
 
@@ -14,7 +14,6 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - muhammadyunus.uz [Telegram](https://t.me/muhammadyunus_uz)
 - Sariq Dev [Telegram](https://t.me/sariqdev)
 - mabrur.dev [Telegram](https://t.me/mabrur_dev)
-- Inspired Engineer [Telegram](https://t.me/inspired_engineer)
 - Josh\*Developer [Telegram](https://t.me/JoshDeveloper)
 - Alisher Tojiyev [Telegram](https://t.me/AkhmatovichUz)
 - AHBS [Telegram](https://t.me/app_hbs)
@@ -29,7 +28,6 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Umar Muhandis [Telegram](https://t.me/umarmuhandis)
 - Sardor Og'a kanali [Telegram](https://t.me/sardoroga_blog)
 - Bexrux.ru - IT blog [Telegram](https://t.me/bexruz_ru)
-- Nurmuhammad Mahmudov - [Telegram](https://t.me/NurmuhammadMahmudov)
 - Abduaziz Py🔥 [Telegram](https://t.me/AbduazizPy)
 - Saud Abdulwahed [Telegram](https://t.me/saudabdulwahed)
 - Dev Farhod [Telegram](https://t.me/devfarhod)
@@ -39,6 +37,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - azizbekx [Telegram](https://t.me/azizbekx)
 - Abdusamad Malikov [Telegram](https://t.me/malikovdev) [Blog](https://www.abdusamad.uz)
 - Izlan & Rivojlan [Telegram](https://t.me/izlanvarivojlan) [YouTube](https://m.youtube.com/c/izlanrivojlanresearchdevelop)
+- Kadirov Dev [Telegram](https://t.me/kadirovDev)
+
 ## **💼 Job sources**
 
 - Ustoz Shogird [Telegram](https://t.me/UstozShogird)
