@@ -16,7 +16,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Josh\*Developer [Telegram](https://t.me/JoshDeveloper)
 - Alisher Tojiyev [Telegram](https://t.me/AkhmatovichUz)
 - AHBS [Telegram](https://t.me/app_hbs)
-- UwUssimo's Channel [Telegram](https://t.me/uwublog)
+- UwUssimo's Channel [Telegram](https://t.me/uwublog) GitHub [Github](https://github.com/uwussimo)
 - Khumoyun Codes [Telegram](https://t.me/khumoyun_codes)
 - Sukhrob Khakimov [Telegram](https://t.me/sukhrobkhakimov)
 - Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer)
