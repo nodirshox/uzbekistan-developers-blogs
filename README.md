@@ -64,7 +64,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Vue JS [Telegram](https://t.me/vuejs_uz)
 - React [Telegram](https://t.me/react_uz)
 - Spring [Telegram](https://t.me/spring_boot_mvc_uz)
-- TelegrafJS [Telegram](https://t.me/telegrafJS_uz)
+- Telegram Bot (JS) [Telegram](https://t.me/botjs_uz)
 - PHP [Telegram](https://t.me/php_uz)
 - Laravel [Telegram](https://t.me/laravel_uz)
 - Yii [Telegram](https://t.me/yiiframework_uz)
