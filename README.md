@@ -40,6 +40,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Abdusamad Malikov [Telegram](https://t.me/malikovdev) [Blog](https://www.abdusamad.uz)
 - Izlan & Rivojlan [Telegram](https://t.me/izlanvarivojlan) [YouTube](https://m.youtube.com/c/izlanrivojlanresearchdevelop)
 - Kadirov Dev [Telegram](https://t.me/kadirovDev)
+- Abbos Shamsiddin [Telegram](https://t.me/Abbos_Shamsiddin)
 
 ## **💼 Job sources**
 
