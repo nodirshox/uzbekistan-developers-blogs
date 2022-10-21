@@ -10,7 +10,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Jakhongir Rakhmonov [Telegram](https://t.me/jakhonrakhmon) [Telegram2](https://t.me/JR_TwitGram) [Blog](https://rahmonov.me/)
 - Bob Usmonov [Telegram](https://t.me/bobnosponge)
 - 10x Engineer [Telegram](https://t.me/TenxEngineer)
-- Saud Abdulwahed [Telegram](https://t.me/saudabdulwahed)
+- Yetim dasturchi kundaligi [Telegram](https://t.me/yetimdasturchi)
 - muhammadyunus.uz [Telegram](https://t.me/muhammadyunus_uz)
 - Asadbek Noyibjonov [Telegram](https://t.me/asadbekdev)
 - Sariq Dev [Telegram](https://t.me/sariqdev)
