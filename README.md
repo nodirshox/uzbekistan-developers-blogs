@@ -51,6 +51,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - UzDev Jobs [Telegram](https://t.me/uzdev_jobs)
 - IT Вакансии Ташкент [Telegram](https://t.me/ITworksUz)
 - Uzbekcoders Jobs [Telegram](https://t.me/omuc_jobs)
+- IT Jobs [Telegram](https://t.me/it_jobs_uz)
+- Uzbekistan IT Jobs [Telegram](https://t.me/ITjobs_Uzbekistan)
 
 ## **🎙 Communities**
 
