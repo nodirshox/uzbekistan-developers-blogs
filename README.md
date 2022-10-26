@@ -41,6 +41,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Izlan & Rivojlan [Telegram](https://t.me/izlanvarivojlan) [YouTube](https://m.youtube.com/c/izlanrivojlanresearchdevelop)
 - Kadirov Dev [Telegram](https://t.me/kadirovDev)
 - Abbos Shamsiddin [Telegram](https://t.me/Abbos_Shamsiddin)
+- Gayratjon Rayimjonov[Telegram](https://t.me/gayratjon_rayimjonov)
 
 ## **💼 Job sources**
 
