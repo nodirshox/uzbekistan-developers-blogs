@@ -86,3 +86,4 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - UzDev – Сообщество разработчиков [Telegram](https://t.me/uzdevgroup)
 - Faang Interview [Telegram](https://t.me/+ndewVNuP8co0ZTdi)
 - Leetcode [Telegram](https://t.me/LeetCode_Uz_Discuss)
+- tasdev.talks [Telegram](https://t.me/tasdev_talks)
