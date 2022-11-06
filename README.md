@@ -21,7 +21,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Yetim dasturchi kundaligi [Telegram](https://t.me/yetimdasturchi)
 - Khumoyun Codes [Telegram](https://t.me/khumoyun_codes)
 - Sukhrob Khakimov [Telegram](https://t.me/sukhrobkhakimov)
-- Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer)
+- Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer) [Azimjon's Travelog](https://t.me/AzimjonTravelog)
 - Farhodjon Yashayapti [Telegram](https://t.me/FarLives)
 - Mayoq [Telegram](https://t.me/mayoquz)
 - Akbarjon Dev [Telegram](https://t.me/akbarjondev)
@@ -58,6 +58,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 
 ## **🎙 Communities**
 
+- GDG Tashkent [Telegram](https://t.me/gdgtashkent)
+- LiveTalks [Telegram](https://t.me/livetalksTV)
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
 - DevOps [Telegram](https://t.me/devopsuzb)
