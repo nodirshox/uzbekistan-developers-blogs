@@ -1,6 +1,4 @@
-# **🇺🇿 Uzbekistan-Developers-Blogs**
-
-## 📃 All Uzbekistan Developers blog list
+# 📃 All Uzbekistan Developers blog list
 
 If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the repository and add yours. And make Pull request.
 
