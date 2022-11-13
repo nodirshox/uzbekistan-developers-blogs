@@ -58,6 +58,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 ## **🎙 Communities**
 
 - GDG Tashkent [Telegram](https://t.me/gdgtashkent)
+- MohirDev.uz [Telegram](https://t.me/mohirdev) [Website](https://mohirdev.uz/)
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
 - DevOps [Telegram](https://t.me/devopsuzb)
