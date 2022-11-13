@@ -40,6 +40,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Kadirov Dev [Telegram](https://t.me/kadirovDev)
 - Abbos Shamsiddin [Telegram](https://t.me/Abbos_Shamsiddin)
 - Gayratjon Rayimjonov [Telegram](https://t.me/gayratjon_rayimjonov)
+- Brogrammist [Telegram](https://t.me/brogrammist)
 
 ## **💼 Job sources**
 
@@ -57,7 +58,6 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 ## **🎙 Communities**
 
 - GDG Tashkent [Telegram](https://t.me/gdgtashkent)
-- LiveTalks [Telegram](https://t.me/livetalksTV)
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
 - DevOps [Telegram](https://t.me/devopsuzb)
@@ -87,3 +87,8 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Faang Interview [Telegram](https://t.me/+ndewVNuP8co0ZTdi)
 - Leetcode [Telegram](https://t.me/LeetCode_Uz_Discuss)
 - tasdev.talks [Telegram](https://t.me/tasdev_talks)
+
+## **🎙 Podcats**
+- Debug Podcast [Telegram](https://t.me/debugpodcast) [YouTube](https://www.youtube.com/c/DebugPodcast/featured)
+- LiveTalks [Telegram](https://t.me/livetalksTV)
+
