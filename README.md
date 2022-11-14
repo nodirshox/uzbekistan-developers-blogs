@@ -41,6 +41,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Abbos Shamsiddin [Telegram](https://t.me/Abbos_Shamsiddin)
 - Gayratjon Rayimjonov [Telegram](https://t.me/gayratjon_rayimjonov)
 - Brogrammist [Telegram](https://t.me/brogrammist)
+- Zokir Gofurboyev [Telegram](https://t.me/zokir_tech_blog)
 
 ## **💼 Job sources**
 
