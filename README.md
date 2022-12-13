@@ -20,7 +20,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Yetim dasturchi kundaligi [Telegram](https://t.me/yetimdasturchi)
 - Khumoyun Codes [Telegram](https://t.me/khumoyun_codes)
 - Sukhrob Khakimov [Telegram](https://t.me/sukhrobkhakimov)
-- Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer) [Azimjon's Travelog](https://t.me/fikrlog)
+- Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer) [Azimjon's Travelog](https://t.me/fikrlog) [YouTube](https://www.youtube.com/@azim)
 - Farhodjon Yashayapti [Telegram](https://t.me/FarLives)
 - Mayoq [Telegram](https://t.me/mayoquz)
 - Akbarjon Dev [Telegram](https://t.me/akbarjondev)
