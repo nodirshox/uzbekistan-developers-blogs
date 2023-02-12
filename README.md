@@ -21,7 +21,6 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Khumoyun Codes [Telegram](https://t.me/khumoyun_codes)
 - Sukhrob Khakimov [Telegram](https://t.me/sukhrobkhakimov)
 - Azimjon Pulatov [Telegram](https://t.me/lazyprogrammer) [Azimjon's Travelog](https://t.me/fikrlog) [YouTube](https://www.youtube.com/@azim)
-- Farhodjon Yashayapti [Telegram](https://t.me/FarLives)
 - Mayoq [Telegram](https://t.me/mayoquz)
 - Akbarjon Dev [Telegram](https://t.me/akbarjondev)
 - Saidbek Masharipov [Telegram](https://t.me/saidabdulla)
@@ -44,6 +43,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Brogrammist [Telegram](https://t.me/brogrammist)
 - Zokir Gofurboyev [Telegram](https://t.me/zokir_tech_blog)
 - The Go Gopher [Telegram](https://t.me/golang_dells)
+- Flutter Blogs [Telegram](https://t.me/flutterblogs)
 
 ## **💼 Job sources**
 
