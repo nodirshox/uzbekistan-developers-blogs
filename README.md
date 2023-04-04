@@ -64,6 +64,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - MohirDev.uz [Telegram](https://t.me/mohirdev) [Website](https://mohirdev.uz/)
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
+- Xinux [Telegram](https://t.me/xinuxuz)
 - DevOps [Telegram](https://t.me/devopsuzb)
 - Python [Telegram](https://t.me/python_uz)
 - Django [Telegram](https://t.me/djangouzb)
