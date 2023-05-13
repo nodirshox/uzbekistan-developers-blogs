@@ -44,6 +44,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Zokir Gofurboyev [Telegram](https://t.me/zokir_tech_blog)
 - The Go Gopher [Telegram](https://t.me/golang_dells)
 - Flutter Blogs [Telegram](https://t.me/flutterblogs)
+- Yuri Katsuki [Telegram](https://t.me/yurionblog) [Blog](https://www.katsuki.moe/blog)
 
 ## **💼 Job sources**
 
@@ -65,6 +66,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Golang [Telegram](https://t.me/golangdevs_community)
 - Linux [Telegram](https://t.me/linux_uzbek)
 - Xinux [Telegram](https://t.me/xinuxuz)
+- OSX [Telegram](https://t.me/pwnosx)
 - DevOps [Telegram](https://t.me/devopsuzb)
 - Python [Telegram](https://t.me/python_uz)
 - Django [Telegram](https://t.me/djangouzb)
@@ -78,6 +80,9 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Spring [Telegram](https://t.me/spring_boot_mvc_uz)
 - Telegram Bot (JS) [Telegram](https://t.me/botjs_uz)
 - PHP [Telegram](https://t.me/php_uz)
+- Rustlang [Telegram](https://t.me/rustlanguz)
+- Ziglang [Telegram](https://t.me/ziglang_uz)
+- Denoland [Telegram](https://t.me/denolanduz)
 - Laravel [Telegram](https://t.me/laravel_uz)
 - Yii [Telegram](https://t.me/yiiframework_uz)
 - Dart - Flutter [Telegram](https://t.me/dartuzb)
