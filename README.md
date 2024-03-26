@@ -27,7 +27,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Farrukh Saliev [Telegram](https://t.me/farrukhsaliev)
 - Umar Muhandis [Telegram](https://t.me/umarmuhandis)
 - Sardor Og'a kanali [Telegram](https://t.me/sardoroga_blog)
-- Bexrux.ru - IT blog [Telegram](https://t.me/bexruz_ru)
+- Bexruz - IT blog [Telegram](https://t.me/bexruz_live)
 - Abduaziz Py🔥 [Telegram](https://t.me/AbduazizPy)
 - Saud Abdulwahed [Telegram](https://t.me/saudabdulwahed)
 - Dev Farhod [Telegram](https://t.me/devfarhod)
