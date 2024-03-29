@@ -45,6 +45,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - The Go Gopher [Telegram](https://t.me/golang_dells)
 - Flutter Blogs [Telegram](https://t.me/flutterblogs)
 - Yuri Katsuki [Telegram](https://t.me/yurionblog) [Blog](https://www.katsuki.moe/blog)
+- Davronbek_Dev [Telegram](https://t.me/davron_coder)
 
 ## **💼 Job sources**
 
