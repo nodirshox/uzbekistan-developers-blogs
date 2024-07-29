@@ -44,6 +44,14 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 - Flutter Blogs [Telegram](https://t.me/flutterblogs)
 - Dark Voyage [Telegram](https://t.me/orzklvb) [Blog](https://orzklv.uz/)
 - Davronbek_Dev [Telegram](https://t.me/davron_coder)
+- Islombek.dev [Telegram](https://t.me/islombekdev)
+- Vohid Karimov | Hello world [Telegram](https://t.me/vovopapcom)
+- Otabek - SWE [Telegram](https://t.me/otabekswe)
+- Rustam-Z | Cracking MAANG⚡️ [Telegram](https://t.me/cracking_maang)
+- Django darslari (Mukhammad irmatov) [Telegram](https://t.me/DjangoDarslari)
+- Engineering Notes [Telegram](https://t.me/boboshersnotes)
+- Ayyubxon Fargʻoniy | 0.1x engineer [Telegram](https://t.me/aIfarghani)
+- Akhmadiy | Devanniy Expert | Logs [Telegram](https://t.me/programming_everyone)
 
 ## **💼 Job sources**
 
