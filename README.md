@@ -5,7 +5,7 @@ If you have a blog (Telegram, website, Youtube, or any), welcome to Fork the rep
 ## **📚 Blogs**
 
 - Nodirbek Ergashev [Telegram](https://t.me/nodir_adventure) [Blog](https://ergashevn.blogspot.com/) [O'zbekcha blog](https://nodirbek.uz)
-- Axmadjon Qaxxorov [Beacons](https://beacons.ai/akhmedcodes)
+- Axmadjon Qaxxorov [Beacons](https://beacons.ai/axmedbek)
 - Jakhongir Rakhmonov [Telegram](https://t.me/jakhonrakhmonov) [Telegram2](https://t.me/JR_TwitGram) [Blog](https://rahmonov.me/)
 - Bob Usmonov [Telegram](https://t.me/bobnosponge)
 - Bobur Umurzokov [Blog](https://iambobur.com/)
